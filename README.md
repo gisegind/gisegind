@@ -23,9 +23,13 @@ Bienvenida/o a mi espacio en GitHub. Soy Técnica Universitaria en Informática,
 
 ## 📫 Contacto
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisela-gindelli/)
-- 📩 gindelligisela@gmail.com
-- 🧰 [Mi Portfolio](https://gisegind.github.io/Gisela-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisela-gindelli/)
+[![Email](https://img.shields.io/badge/-gindelligisela@gmail.com-C2185B?style=flat&logo=gmail&logoColor=white)](mailto:gindelligisela@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Mi_Portfolio-6C3483?style=flat&logoColor=white)](https://gisegind.github.io/Gisela-Portfolio/)
+
+
+
+
 
 ---
 
