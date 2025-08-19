@@ -36,6 +36,6 @@ Bienvenidos a mi espacio en GitHub. Soy Técnica Universitaria en Informática, 
 
 ---
 
-> 🕹️  Me encanta la estética de lo simple... Soy fan de lo retro y lo clásico.
+> 🕹️  Me encanta la estética de lo simple... menos es más!
 
 ![Tetris GIF](https://art.pixilart.com/sr2003c37029a1b.gif)
